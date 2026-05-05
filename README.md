@@ -5,87 +5,98 @@
 <h1 align="center">CAM FRONTIER</h1>
 
 <p align="center">
-AI Systems • Data Science • European Innovation Studio
+AI Systems • Data Science • European Innovation • AgriTech
+</p>
+
+<p align="center">
+Building intelligent systems, scalable digital tools, and applied innovation across AI and EU ecosystems.
 </p>
 
 ---
 
+## 🧠 WHO AM I
+
+**Mehmet Cam**  
+AI Systems Builder | Data Scientist | EU Innovation Strategist  
+Founder of CamFrontier
+
+I design and build intelligent systems that connect **research, data, and real-world impact** across Europe and beyond.
+
+---
+
+## 🚀 WHAT I BUILD
+
+- AI-powered automation systems  
+- Data intelligence & analytics platforms  
+- EU research & innovation projects (Horizon Europe, Erasmus+)  
+- AgriTech & HealthTech solutions  
+- Scalable digital products
+
+---
+
+## 🔥 FEATURED PROJECTS
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=28&center=true&vCenter=true&width=650&lines=Building+AI+Systems+for+Real+World+Impact;Data+Driven+Innovation+Builder;EU+Innovation+&+Research+Ecosystem;CamFrontier+Studio" />
+
+<a href="https://github.com/mehmetcamofficial/food-regulatory-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetcamofficial&repo=food-regulatory-dashboard&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/mehmetcamofficial/agrivision-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetcamofficial&repo=agrivision-ai&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/mehmetcamofficial/GrantMirror-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetcamofficial&repo=GrantMirror-AI&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/mehmetcamofficial/projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetcamofficial&repo=projects&theme=tokyonight" />
+</a>
+
 </p>
 
 ---
 
-## 🧠 Who I Am
-
-I build **AI-driven systems and data intelligence products** that solve real-world problems in:
-
-- 🌍 European innovation ecosystems  
-- 🌱 AgriTech & sustainability systems  
-- 🧠 AI-powered decision platforms  
-- 📊 Data intelligence infrastructures  
-
-👉 Founder of **CamFrontier** — a system-building mindset focused on applied intelligence.
-
----
-
-## 🚀 What I Build (System Portfolio)
-
-Each project is treated as a **product system**, not just code.
-
-| Product System | Category | Impact |
-|----------------|----------|--------|
-| 🧠 Food Regulatory AI | AI Compliance System | Automates regulatory intelligence for food industry |
-| 🎓 Academic AI Advisor | Research Intelligence | AI assistant for academic decision support |
-| 🌍 EU Funding Intelligence Engine | Data Automation | Extracts & structures EU grant opportunities |
-| 📊 Financial Analysis System | Data Modeling | Predictive financial analytics engine |
-
----
-
-## ⚙️ Core Capabilities
-
-- 🤖 AI System Design (LLMs, NLP, Automation)
-- 📊 Data Engineering & Analytics Pipelines
-- 🌍 EU Project Architecture & Proposal Design
-- 🧩 Productizing Research into Systems
-
----
-
-## 📊 GitHub Intelligence Layer
+## 📊 GITHUB INTELLIGENCE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetcamofficial&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetcamofficial&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcamofficial&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcamofficial&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcamofficial&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcamofficial&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌍 Focus Areas
+## 🌍 RESEARCH & INNOVATION
 
-- European Innovation Projects (Horizon / EU Grants)
-- AI Product Development
-- Data-Driven Decision Systems
-- Applied Research → Real Systems
-
----
-
-## 🔗 Connect & Collaborate
-
-<p align="center">
-  <a href="https://linkedin.com/in/mehmet-cam09">LinkedIn</a> •
-  <a href="https://github.com/mehmetcamofficial">GitHub</a> •
-  <a href="#">CamFrontier Vision</a>
-</p>
+- European project design & consortium building  
+- AI-driven decision systems  
+- Applied data science for real-world problems  
+- Cross-sector innovation (AI × Agriculture × Health)  
 
 ---
 
+## 🧭 FRONTIER VISION
+
+> “Building the next generation of intelligent systems that connect data, research, and impact.”
+
+---
+
+## 🔗 CONNECT
+
+- LinkedIn: https://linkedin.com/in/mehmet-cam09  
+- GitHub: https://github.com/mehmetcamofficial  
+- Website: https://mehmetcamofficial.github.io  
+
+---
+
 <p align="center">
-⚡ CamFrontier — Building Systems Beyond Code
+⚡ CamFrontier — Digital Innovation Frontier
 </p>
