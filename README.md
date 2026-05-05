@@ -9,73 +9,67 @@ AI Systems • Data Science • European Innovation • AgriTech • Geospatial 
 </p>
 
 <p align="center">
-Building intelligent systems that transform data into real-world decisions.
+Building intelligent systems that transform data into decisions and innovation into impact.
 </p>
 
 ---
 
-## 🧠 ABOUT
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=26&center=true&vCenter=true&width=750&lines=AI+Systems+Builder;Data+Science+Engineer;EU+Innovation+Strategist;AgriTech+%26+Geospatial+AI;Building+Next-Gen+Intelligent+Systems" />
+</p>
+
+---
+
+## 🧠 ABOUT ME
 
 **Mehmet Cam**  
 AI Systems Builder | Data Scientist | EU Innovation Strategist  
 Founder of CamFrontier
 
-I design and develop AI-driven systems, data platforms, and innovation frameworks across **Europe’s research and technology ecosystem**.
+I design and develop **AI-powered systems, data intelligence platforms, and innovation frameworks** across Europe’s research and technology ecosystem.
 
-Focus: turning complex data into actionable intelligence systems.
+My focus is not building tools — but **building connected intelligence systems.**
 
 ---
 
 ## 🚀 INNOVATION STACK
 
-- Artificial Intelligence & Automation Systems  
-- Data Science & Predictive Analytics  
-- EU Projects (Horizon Europe, Erasmus+)  
-- AgriTech & Smart Agriculture Systems  
-- Geospatial Intelligence (GIS + AI)
+A multi-layer system of expertise:
+
+- 🤖 Artificial Intelligence & Automation Systems  
+- 📊 Data Science & Predictive Analytics  
+- 🇪🇺 EU Research & Innovation Programs (Horizon Europe, Erasmus+)  
+- 🌱 AgriTech & Smart Agriculture Systems  
+- 🛰️ Geospatial Intelligence (GIS + AI systems)
 
 ---
 
-## 🧭 ECOSYSTEM PROJECTS
+## 🧭 SYSTEM THINKING APPROACH
 
-Instead of standalone projects, I build interconnected systems:
+Instead of isolated tools, I build **ecosystems of intelligence**:
 
-### 🧠 AI Decision Systems
+- AI → decision systems  
+- Data → predictive insights  
+- Research → innovation pipelines  
+- Agriculture → smart sensing systems  
+- EU projects → scalable collaborative frameworks  
+
+---
+
+## 🔥 FEATURED INTELLIGENCE SYSTEMS
+
+### 🧠 AI Decision Layer
 - Food Regulatory Intelligence Dashboard  
 - Academic AI Research Assistant  
 
-### 🌱 AgriTech Intelligence
-- Agrivision AI (weed detection & precision farming)
+### 🌱 AgriTech Intelligence Layer
+- Agrivision AI — precision agriculture & weed detection  
 
-### 🇪🇺 EU Innovation Systems
-- GrantMirror AI (funding intelligence engine)
+### 🇪🇺 EU Innovation Layer
+- GrantMirror AI — funding intelligence & opportunity mapping  
 
-### 🛰️ Geospatial Intelligence
-- SmartShelter GIS (risk mapping & spatial AI systems)
-
----
-
-## 🔥 FEATURED PROJECTS
-
-<p align="center">
-
-<a href="https://github.com/mehmetcamofficial/food-regulatory-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetcamofficial&repo=food-regulatory-dashboard&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/mehmetcamofficial/agrivision-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetcamofficial&repo=agrivision-ai&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/mehmetcamofficial/GrantMirror-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetcamofficial&repo=GrantMirror-AI&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/mehmetcamofficial/smartshelter-gis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetcamofficial&repo=smartshelter-gis&theme=tokyonight" />
-</a>
-
-</p>
+### 🛰️ Geospatial Intelligence Layer
+- SmartShelter GIS — spatial risk analysis & mapping system  
 
 ---
 
@@ -95,19 +89,18 @@ Instead of standalone projects, I build interconnected systems:
 
 ---
 
-## 🌍 RESEARCH & IMPACT
+## 🌍 RESEARCH & IMPACT FOCUS
 
-- EU-level innovation project design  
-- AI-driven decision systems for real-world problems  
-- Cross-domain systems (AI × Agriculture × Health × Finance)  
-- Data intelligence for policy and research ecosystems  
+- EU-level innovation system design  
+- AI-driven decision support systems  
+- Cross-domain intelligence systems (AI × Agri × Health × Policy)  
+- Data-driven research & applied science frameworks  
 
 ---
 
 ## 🧪 DESIGN PRINCIPLE
 
-> “I don’t build isolated tools.  
-I build connected intelligence systems.”
+> “I don’t build applications. I build intelligence layers that connect systems.”
 
 ---
 
@@ -120,5 +113,5 @@ I build connected intelligence systems.”
 ---
 
 <p align="center">
-⚡ CamFrontier — Building the Next Generation of Intelligent Systems
+⚡ CamFrontier — Engineering the Future of Intelligent Systems
 </p>
