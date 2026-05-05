@@ -9,71 +9,71 @@ AI Systems • Data Science • European Innovation • AgriTech • Geospatial 
 </p>
 
 <p align="center">
-Building intelligent systems that transform data into decisions and innovation into impact.
+Building intelligent systems that transform data into decisions and research into impact.
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=26&center=true&vCenter=true&width=750&lines=AI+Systems+Builder;Data+Science+Engineer;EU+Innovation+Strategist;AgriTech+%26+Geospatial+AI;Building+Next-Gen+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=26&center=true&vCenter=true&width=750&lines=AI+Systems+Builder;Data+Science+Engineer;EU+Innovation+Strategist;AgriTech+%26+Geospatial+AI;Building+Intelligent+Systems+for+Real+Impact" />
 </p>
 
 ---
 
-## 🧠 ABOUT ME
+## 🧠 ABOUT
 
 **Mehmet Cam**  
 AI Systems Builder | Data Scientist | EU Innovation Strategist  
 Founder of CamFrontier
 
-I design and develop **AI-powered systems, data intelligence platforms, and innovation frameworks** across Europe’s research and technology ecosystem.
-
-My focus is not building tools — but **building connected intelligence systems.**
+I design and build **AI-driven systems, data intelligence platforms, and applied research frameworks** across European innovation ecosystems.
 
 ---
 
 ## 🚀 INNOVATION STACK
 
-A multi-layer system of expertise:
-
 - 🤖 Artificial Intelligence & Automation Systems  
 - 📊 Data Science & Predictive Analytics  
-- 🇪🇺 EU Research & Innovation Programs (Horizon Europe, Erasmus+)  
+- 🇪🇺 EU Research & Innovation (Horizon Europe, Erasmus+)  
 - 🌱 AgriTech & Smart Agriculture Systems  
-- 🛰️ Geospatial Intelligence (GIS + AI systems)
+- 🛰️ Geospatial Intelligence (GIS + AI Systems)  
 
 ---
 
-## 🧭 SYSTEM THINKING APPROACH
+## 🧭 SYSTEM ECOSYSTEM
 
-Instead of isolated tools, I build **ecosystems of intelligence**:
+Instead of standalone projects, I build **connected intelligence layers**:
 
-- AI → decision systems  
-- Data → predictive insights  
-- Research → innovation pipelines  
-- Agriculture → smart sensing systems  
-- EU projects → scalable collaborative frameworks  
+- AI Decision Systems  
+- Agricultural Intelligence Systems  
+- EU Funding Intelligence Engines  
+- Geospatial Risk Mapping Systems  
+- Data-driven Research Frameworks  
 
 ---
 
 ## 🔥 FEATURED INTELLIGENCE SYSTEMS
 
-### 🧠 AI Decision Layer
+### 🧠 AI CORE
 - Food Regulatory Intelligence Dashboard  
 - Academic AI Research Assistant  
 
-### 🌱 AgriTech Intelligence Layer
-- Agrivision AI — precision agriculture & weed detection  
+### 🌱 AGRI INTELLIGENCE
+- Agrivision AI (precision agriculture & weed detection)
 
-### 🇪🇺 EU Innovation Layer
-- GrantMirror AI — funding intelligence & opportunity mapping  
+### 🇪🇺 EU SYSTEMS
+- GrantMirror AI (funding intelligence engine)
 
-### 🛰️ Geospatial Intelligence Layer
-- SmartShelter GIS — spatial risk analysis & mapping system  
+### 🛰️ GEO INTELLIGENCE
+- SmartShelter GIS (risk mapping & spatial AI)
 
 ---
 
-## 📊 ENGINEERING ACTIVITY
+## 📊 CONTRIBUTION INTELLIGENCE
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmetcamofficial&theme=tokyo-night" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetcamofficial&show_icons=true&theme=tokyonight" />
@@ -83,24 +83,21 @@ Instead of isolated tools, I build **ecosystems of intelligence**:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcamofficial&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcamofficial&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
-## 🌍 RESEARCH & IMPACT FOCUS
+## 🌍 RESEARCH & IMPACT
 
 - EU-level innovation system design  
-- AI-driven decision support systems  
+- AI-driven decision architectures  
 - Cross-domain intelligence systems (AI × Agri × Health × Policy)  
-- Data-driven research & applied science frameworks  
+- Applied data science for real-world systems  
 
 ---
 
 ## 🧪 DESIGN PRINCIPLE
 
-> “I don’t build applications. I build intelligence layers that connect systems.”
+> “I don’t build applications.  
+I build intelligence systems that connect data, research, and impact.”
 
 ---
 
@@ -113,5 +110,5 @@ Instead of isolated tools, I build **ecosystems of intelligence**:
 ---
 
 <p align="center">
-⚡ CamFrontier — Engineering the Future of Intelligent Systems
+⚡ CamFrontier — Engineering the Next Generation of Intelligent Systems
 </p>
